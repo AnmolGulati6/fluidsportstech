@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FrancoisOne-Regular</string>
+		<string>BebasNeue-Regular</string>
+	</array>
+	<key>API_KEY</key>
+	<string>AIzaSyCDmgAicUXNiXVZxMlJ6gQuuyVA8D9vml8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>553041851052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FST.FluidTechSports</string>
+	<key>PROJECT_ID</key>
+	<string>swiftuiauth-c4403</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftuiauth-c4403.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:553041851052:ios:1ee2cd5ecfe9bb5b8f2509</string>
+</dict>
+</plist>
